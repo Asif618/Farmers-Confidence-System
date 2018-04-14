@@ -1,0 +1,9 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+#procedure{
+  text-align: center;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
